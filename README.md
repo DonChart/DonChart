@@ -1,4 +1,4 @@
-![Hub_Header](https://github.com/DonChart/DonChart/assets/168656623/03b4eb2a-bd93-4051-994f-170c883b531a)
+![Hub Header_2](https://github.com/DonChart/DonChart/assets/168656623/3cf5a990-7dcc-40ae-99b2-83c3a70cac50)
 
 ## Hello there friend !
 

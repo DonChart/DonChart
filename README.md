@@ -1,6 +1,6 @@
 ![Hub_Header](https://github.com/DonChart/DonChart/assets/168656623/03b4eb2a-bd93-4051-994f-170c883b531a)
 
-### Hi there 👋
+## Hello there friend !
 
 <!--
 **DonChart/DonChart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

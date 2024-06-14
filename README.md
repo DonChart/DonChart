@@ -8,7 +8,7 @@ I've tried to highlight a few of my projects here to help show my process and ap
 
 It is my belief that just about any problem can be solved and answered depending on how you approach looking for the solution.  No solution is too small when it helps drive change. Sometimes you have to get up close and squint real hard, and sometimes you have to stand way back and use a magnifying glass.  That process is what drives my professionalism.  
 
-📫 How to reach me: donchartx@comcast.net
+📫 How to reach me: donchart@comcast.net
 
 <!--
 **DonChart/DonChart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

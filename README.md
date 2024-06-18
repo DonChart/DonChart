@@ -2,7 +2,7 @@
 
 # Hello there !
 
-My name is Don Chartier and I am a Boston based Data and Reporting Analytics expert who is passionate about creating information systems that drive and elevate people and business profitiability.   Some data technologies I enjoy working with include SQL, PowerBI, Excel, VBA, C#, Powershell, Access and all vaiants that comprise most data acquisition, transformation and presentation methodologies. Working with information as far upstream as possible has helped me develop autonmous reporting strategies that become self sustaining entities that update and present themselves with accracy and reliability without any user intervention.  
+My name is Don Chartier and I am a Boston area Data and Reporting Analytics expert who is passionate about creating information systems that drive and elevate people and business profitiability.   Some data technologies I enjoy working with include SQL, PowerBI, Excel, VBA, C#, Powershell, Access and all vaiants that comprise most data acquisition, transformation and presentation methodologies. Working with information as far upstream as possible has helped me develop autonmous reporting strategies that become self sustaining entities that update and present themselves with accracy and reliability without any user intervention.  
 
 I've tried to highlight a few of my projects here to help show my process and approach to problem solving. 
 

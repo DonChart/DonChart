@@ -8,6 +8,8 @@ I've tried to highlight a few of my projects here to help show my process and ap
 
 It is my belief that just about any problem can be solved and answered depending on how you approach looking for the solution.  No solution is too small when it helps drive change. Sometimes you have to get up close and squint real hard, and sometimes you have to stand way back and use a magnifying glass.  That process is what drives my professionalism.  
 
+I am building out my profile as time allows so please check back for future project information
+
 📫 How to reach me: donchart@comcast.net
 
 <!--
